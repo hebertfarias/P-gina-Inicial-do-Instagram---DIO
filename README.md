@@ -1,2 +1,2 @@
-# PáginaInicial-do-Instagram---DIO
+# Página Inicial do Instagram - DIO
 Recriando a Página Inicial do Instagram - DIO
